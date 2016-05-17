@@ -1,11 +1,10 @@
-name: Coding Pirates <br/> DIKU
-description: Hej pirat! Det her er hjemmesiden for Coding
-             Pirates-afdelingen på DIKU. <br/>Har du lavet noget sejt, så
-             skal det selvfølgelig op her på siden! Bare tag fat i en
-             af os.
+name: Coding Pirates <br/> ITU
+description: Ohøj, pirat! Det her er hjemmesiden for Coding
+             Pirates-afdelingen på ITU. <br/>
+             Her viser vi en masse seje projekter,
+              lavet på de forskellige workshops, på ITU.
 markdown: redcarpet
 highlighter: true
-email: dybber@dybber.dk
+email: per@codingpirates.dk
 twitter: twitterusername
-github: gitusername
-
+github: githubusername
