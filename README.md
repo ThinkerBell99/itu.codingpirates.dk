@@ -1,27 +1,31 @@
-# itu.codingpirates.dk
+Hjemmeside for DIKU-afdelingen af Coding Pirates
+================================================
 
-Website til Coding Pirates-afdelingen på ITU. Besøg siden på
- <http://itu.codingpirates.dk>.
+Vi bruger Jekyll, med følgende design-skabelon:
+https://github.com/anandubajith/block-log
 
-Tak til [Niels](https://github.com/JeaxQulu)  for at sætte ITU siden op, med
-inspiration fra [DIKU afdelingen](https://github.com/dybber/diku.codingpirates.dk)
+Licenser
+--------
 
+### Licens til "block-log" Jekyll-skabelonen
+The MIT License (MIT)
 
-## Attribution and licensing
+Copyright (c) 2014 Anandu B Ajith
 
-### Design
-The design is based on [block-log](https://github.com/anandubajith/block-log)
-by Anandu B Ajith.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-> The MIT License (MIT)
->
-> Copyright (c) 2015 Anandu B Ajith
->
-> Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:  The above copyright notice and this
-permission notice shall be included in all copies or substantial portions of the
-Software.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
