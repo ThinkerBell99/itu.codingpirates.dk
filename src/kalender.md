@@ -20,10 +20,10 @@ Forår 2016
  * 7. marts
  * 14. marts
  * 21. marts
- * 28. marts: aflyst (2. påskedag)
+ * 28. marts:
  * 4. april
  * 11. april
- 
+
 **Forløb #3**
 
  * 18. april
@@ -31,4 +31,3 @@ Forår 2016
  * 2. maj
  * 9. maj
  * 16. maj: Sæsonafslutning
-
