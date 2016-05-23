@@ -9,7 +9,7 @@ Hej alle i gæve pirater!
 Vi så at DIKU afdelingen havde en hjemmeside på [_diku.codingpirates.dk_](http://diku.codingpirates.dk), som
 ægte pirater har vi nu ståjlet den ide og lavet vores egen i stil med deres.
 
-ITU's hjemmeside er stykket stammen af den kære Niels, som har vundet en et
+ITU's hjemmeside er stykket stammen af den kære Nilq, som har vundet en et
 klistermærke for arbejdet.
 
 Ønsker i at tilføje til hjemmesiden så send en pull request på [github]
